@@ -1,5 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     background: black;
+    overflow: hidden;
 }
 #canvas1{
     position: absolute;
@@ -10,4 +16,22 @@ body{
 }
 #playerImage, #backgroundImage, #enemyImage{
     display: none;
+}
+#screenNotResponsive{
+    display: none;
+}
+@media screen and (max-width: 1024px) {
+    #screenNotResponsive{
+        width: 100%;
+        min-height: 100vh;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    #screenNotResponsive h1{
+        text-align: center;
+        font-size: 50px;
+    }
 }
