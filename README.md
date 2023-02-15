@@ -1,5 +1,5 @@
 # SideScrollerGame
-Pour ce mini projet en JavaScript j'ai utilisé YouTube comme support. J'ai suivi ce tuto : https://www.youtube.com/watch?v=7JtLHJbm0kA&list=PLA23O6zLk0cofDIIJBbwNo9ZQ0Ukig953&index=3.
+Pour ce mini projet en JavaScript j'ai utilisé YouTube comme support. J'ai suivi ce tuto : <a href="https://www.youtube.com/watch?v=7JtLHJbm0kA&list=PLA23O6zLk0cofDIIJBbwNo9ZQ0Ukig953&index=3" target="_blank">Lien de la vidéo</a>
 
 <img align="center" width="100%" alt="GIF" src="https://gamejs.natandavid.fr/bg.jpg"></img>
 
